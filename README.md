@@ -4,25 +4,21 @@
 
 # Projeto Previsão do tempo
 
-
-# Índice 
-
 - [Projeto Previsão do tempo](#projeto-previsão-do-tempo)
-- [Índice](#índice)
   - [Descrição do projeto](#descrição-do-projeto)
   - [Aplicação](#aplicação)
   - [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
   - [Acesso ao projeto](#acesso-ao-projeto)
   - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
-  - [Imagens](#imagens)
-  - [Desenvolvedores](#desenvolvedores)
+  - [Utilização](#utilização)
+  - [Desenvolvedora](#desenvolvedora)
   - [Me siga nas redes sociais](#me-siga-nas-redes-sociais)
     - [Feito com 💜 by Thamyres Cavalcante.](#feito-com--by-thamyres-cavalcante)
 
 ## Descrição do projeto 
 
 <p align="justify">
- Projeto em desenvolvimento em uma live com os irmãos Dev em Dobro. O projeto tem o objetivo de apresentar a temperatura, umidade e velocidade do tempo, de acordo com a cidade escolhida.
+ Projeto desenvolvido durante uma live com os irmãos Dev em Dobro. O projeto tem o objetivo de apresentar a temperatura, umidade e velocidade do tempo, de acordo com a cidade escolhida.
 </p>
 
 
@@ -45,7 +41,7 @@
 
 É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Previsao-Tempo)
 
-Neste repositório você tem acesso a todo o material produzido no curso.
+Neste repositório você tem acesso a todo o material desenvolvido.
 
 
 ## Abrir e rodar o projeto
@@ -53,8 +49,7 @@ Neste repositório você tem acesso a todo o material produzido no curso.
 Para utilizar o projeto, basta clicar [Aqui](https://thamyresmya.github.io/Previsao-Tempo/)!
 
 
-## Imagens
-Utilização
+## Utilização
 
 <img width="100%" height="400" src="./src/imagens/Previsão do tempo.gif"></img>
 
@@ -63,7 +58,7 @@ Utilização
 </video>
 
 
-## Desenvolvedores
+## Desenvolvedora
 
 [<img src="https://github.com/Thamyresmya.png" width=115><br><sub>Thamyres Cavalcante</sub>](https://github.com/Thamyresmya) 
 
