@@ -54,7 +54,7 @@ Para utilizar o projeto, basta clicar [Aqui](https://thamyresmya.github.io/Previ
 
 
 ## Imagens
-Utilizanção
+Utilização
 
 <img width="100%" height="300" src="./src/imagens/Previsão do tempo.gif"></img>
 
